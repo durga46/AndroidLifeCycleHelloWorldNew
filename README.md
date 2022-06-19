@@ -1,4 +1,5 @@
-# Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
+# <p align="center"> Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.</p>
+
 To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
